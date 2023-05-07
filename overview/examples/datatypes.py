@@ -9,3 +9,5 @@ x = 25.7
 print(x, tab, type(x), tab, id(x))
 x = "Hello"
 print(x, tab, type(x), tab, id(x))
+y = "World"
+print(x, tab, y)
